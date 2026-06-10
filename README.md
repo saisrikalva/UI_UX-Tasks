@@ -1,5 +1,6 @@
 # UI_UX-Tasks
-CodeAlpha UI/UX Internship Tasks Submission
+CodeAlpha UI/UX Internship Tasks Submission.
+
 This repository contains all tasks completed during the CodeAlpha UI/UX Internship.
 
 ## Tasks
